@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace TestePraticoMeta.Domain
+﻿namespace TestePraticoMeta.Domain
 {
     public class Interest : Constants
     {
