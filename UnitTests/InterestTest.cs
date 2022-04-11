@@ -11,8 +11,8 @@ namespace UnitTests
         {
             Interest interest = new();
             var response = interest.GetInterestRate();
-            Assert.IsNotNull(response); 
-            Assert.AreEqual(0.01,response); 
+            Assert.IsNotNull(response);
+            Assert.AreEqual(0.01, response);
         }
 
         [TestMethod]
